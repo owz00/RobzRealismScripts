@@ -1,0 +1,18 @@
+statType,function
+health,lambda x: x / 100
+healthRegen,lambda x: x / 100
+staminaRegen,lambda x: x / 100
+speed,lambda x: x / 100
+tankSkill,lambda x: x / 100
+vehicleSkill,lambda x: x / 100
+cannonSkill,lambda x: x / 100
+tankGunSkill,lambda x: x / 100
+pistolSkill,lambda x: x / 100
+smgSkill,lambda x: x / 100
+mgunSkill,lambda x: x / 100
+rifleSkill,lambda x: x / 100
+rocketLskil,lambda x: x / 100
+melee,lambda x: x / 100
+commandPower,lambda x: x / 100
+score,lambda x: x / 100
+captureWeight,lambda x: x / 100

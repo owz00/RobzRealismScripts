@@ -1,6 +1,6 @@
 How To use
 
-Important
+Important ***
   Make a copy of the files you wish to modify and ensure the modified version works before replacing them 
 
 Step 1
@@ -28,7 +28,8 @@ Step 5
 
 - Now that the main script has generated  the required csv files you can edit them and run changeBreedName exe.
 - You can also run the chartValues script which uses the function csv files to chart new mp values for each bread and squad
-- -- you must place the function csv files in the same file as all the other generated files and scripts
+- -- you must place the 'function' csv files in the same file as all the other generated files and scripts
+  
 
 Step 6
 

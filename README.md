@@ -3,6 +3,10 @@ How To use
 Important ***
   Make a copy of the files you wish to modify and ensure the modified version works before replacing them 
 
+Notes **
+- to delete unused breeds press 'y' when prompted by the robz extract script. This will delete any breed not named in the squads files
+- this means to ensure all unsued breeds are deleted they all must be of a unique namer. This can be done by using the "robzBreeds3" csv file to updated the breed names before deleting all unused breeds
+- after runing the script to delete the breeds, run it again to check if it has taken effect. The unused breeds csv should be empty
 Step 1
 
 - unpack the gamelogic pak file in the file it is located in. It is important that the directory structure is preserved and the original pak file is renamed to avoid errors

@@ -1,6 +1,7 @@
 How To use
 
-
+Important
+  Make a copy of the files you wish to modify and ensure the modified version works before replacing them 
 
 Step 1
 
